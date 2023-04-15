@@ -2,7 +2,7 @@
 ![images](https://user-images.githubusercontent.com/108998337/232182891-43226f59-03a4-44a1-8f92-699d0b9ba7c2.jpg)
 
 
-#  TRABAJO PRÁCTICO  N°1     GRUPO (2)
+#  TRABAJO PRÁCTICO  N°1     GRUPO (4)
 ##  COLABORADORES ##
 
 1. [ EMILIO MOYANO ] TERRAWOLF
