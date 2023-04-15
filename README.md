@@ -24,6 +24,11 @@
 
 
 
+![image](https://user-images.githubusercontent.com/108998337/232183040-13d59035-53d5-4cf4-b1d1-c70ad80ac90c.png)
+![image](https://user-images.githubusercontent.com/108998337/232183079-1ecca42a-03c5-4dd1-abb0-3df697a7d539.png)
+
+
+
 TECNICATURA SUPERIOR EN
 Telecomunicaciones
 
@@ -44,6 +49,9 @@ Cada práctica se desarrollará en forma grupal, debiendo subir el desarrollo de
 
 
 
+
+
+![image](https://user-images.githubusercontent.com/108998337/232183095-cb967eb7-2cdc-4a32-8e17-f1a7044ae18a.png)
 
 
 
