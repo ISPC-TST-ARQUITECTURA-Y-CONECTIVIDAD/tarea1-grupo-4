@@ -1,5 +1,6 @@
 
-![presentacion2](https://user-images.githubusercontent.com/108998337/232181233-543691f2-dd08-42a3-ab6b-849130ec36e
+![images](https://user-images.githubusercontent.com/108998337/232182891-43226f59-03a4-44a1-8f92-699d0b9ba7c2.jpg)
+
 
 #  TRABAJO PRÁCTICO  N°1     GRUPO (2)
 ##  COLABORADORES ##
@@ -11,6 +12,7 @@
 6. [                   ]  ProgramadorPegasus 
 
 
+![images (1)](https://user-images.githubusercontent.com/108998337/232182903-c6677089-9c67-43c4-bfb4-e435294a0ad5.jpg)
 
 
 
