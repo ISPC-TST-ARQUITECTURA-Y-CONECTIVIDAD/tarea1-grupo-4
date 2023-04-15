@@ -77,6 +77,22 @@ Cuestionario:
 
 
 
+Actualizomos el README.md
+
+Se crean carpetas contenedoras de las tareas asignadas
+
+
+//Se agrega Bibliografia://
+
+https://dynamoelectronics.com/buses-de-datos-en-electronica-paralelo-uart-spi-i2c/
+
+https://www.serial-port-monitor.org/es/articles/serial-communication/types-of-serial-protocols/
+
+https://www.rohde-schwarz.com/lat/productos/prueba-y-medicion/essentials-test-equipment/digital-oscilloscopes/entendiendo-los-protocolos-en-serie_254522.html
+
+https://www.google.com/search?rlz=1C1ONGR_esAR1050AR1050&sxsrf=APwXEdeq7b2elDRmq0JmoUs2MRJ4BkC0vg:1681534967950&q=Transmisi%C3%B3n+en+paralelo+ejemplos&sa=X&ved=2ahUKEwixp8Tzjav-AhV-hJUCHfQsCpUQ1QJ6BAg5EAE&biw=1280&bih=520&dpr=1.5
+
+https://www.youtube.com/watch?v=PIwmWQHv5GI
 
 
 
